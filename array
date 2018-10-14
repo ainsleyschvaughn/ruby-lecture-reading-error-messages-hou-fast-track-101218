@@ -1,0 +1,10 @@
+example_array [1, 2, 3, 4]
+
+def reverse_an_array(array)
+#define an initial variable
+#we'll yse this to loop through the array
+return_array = []
+counter = 0
+while counter < array.length
+array [counter]
+return_array.unshift(array[counter])
